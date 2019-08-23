@@ -1,3 +1,3 @@
 # esx_ktackle
 
-Press SHIFT + G to tackle as a police
+Press SHIFT + G to tackle for everyone
